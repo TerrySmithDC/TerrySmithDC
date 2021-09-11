@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Terry</h1>
+<h1 align="center">Hello, I'm Terry</h1>
 <h3 align="center">A coffee powered pixel enthusiast.</h3>
 
 - 🔭 I’m currently working on building out a personal site
